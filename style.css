@@ -1,1 +1,4 @@
 /* Start coding here */
+diasable:hover {background-color: lightgrey;}
+input:hover { border-color: khaki;}
+button:hover  {color: pink;}
